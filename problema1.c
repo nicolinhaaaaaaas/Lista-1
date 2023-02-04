@@ -1,9 +1,9 @@
-// Escreva um programa para somar uma sequência de inteiros e
+/* Escreva um programa para somar uma sequência de inteiros e
 calcular sua média. Suponha que o primeiro inteiro lido com scanf especifique
 o número de valores a serem inseridos. Seu programa deve ler apenas um
 valor cada vez que scanf é executado. Uma sequência de entrada típica pode
 ser:
-7 678 234 315 489 536 456 367 //
+7 678 234 315 489 536 456 367 */
 
 #include <stdio.h>
 
